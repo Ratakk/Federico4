@@ -11,8 +11,8 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js";
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-["573026191480", '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
-["595975740803", '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], 
+["573026191480", 'Federico', true],
+["595975740803", 'Beto', true], 
 ["5492266466080"], 
 ["593968585383"], 
 ["5492266613038"],
@@ -41,7 +41,7 @@ global.lenguajeGB = es; //Idioma de GataBot, Ejemplo: es | en | pt...
 global.openai_key = 'sk-0';
 /* Consigue tu ApiKey en este enlace: https://platform.openai.com/account/api-keys */
 
-global.openai_org_id = 'org-3';
+global.openai_org_id = 'org-3';org-Vnxz3vcKhdvqDl80qCxWK0Cb
 /* Consigue tu ID de organizacion en este enlace: https://platform.openai.com/account/org-settings */
 
 global.keysZens = ["LuOlangNgentot", "c2459db922", "37CC845916", "6fb0eff124", "hdiiofficial", "fiktod", "BF39D349845E", "675e34de8a", "0b917b905e6f"];
@@ -96,48 +96,23 @@ global.moment = moment;
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-["18059196237", 'Gata Dios 💻', 1], 
-["5492266466080", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-["59894808483", '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-["5521989092076", '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],
-["5491173694367", 'Prueba', 1]];
+["51904029891", 'Beto 💻', 1], 
 
-global.mail = ''; //agrega tú correo
-global.desc = ''; //agrega una descripción corta
+global.mail = ''; calderonbeto2009@gmail.com 
+global.desc = ''; pues soy beto
 global.desc2 = ''; //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
-global.country = ''; //agrega tú país ejemplo: 🇪🇨
+global.country = ''; Perú 
 
-global.packname = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈";
-global.author = "𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨";
+global.packname = "FEDERICO";
+global.author = "BETO";
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = "1.4.9";
 global.vsJB = "2.5 (Beta)";
 
-global.gt = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿";
-global.yt = "https://youtube.com/@gatadios";
-global.yt2 = "https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s";
-global.ig = "https://www.instagram.com/gata_dios";
-global.md = "https://github.com/GataNina-Li/GataBot-MD";
-global.fb = "https://www.facebook.com/groups/872989990425789/";
-
-global.n2 = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A' //CANAL GATABOT
-global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE GATABOT
-global.nn2 = 'https://chat.whatsapp.com/HLXJUIznsbHJ3LF6pTgmh6' //UPDATE 2
-global.nna2 = 'https://chat.whatsapp.com/JRFOdyjNqhwEJcDQoBCHzL' //Help
-global.nn = 'https://chat.whatsapp.com/Ii0hagX0idw4C7Gxwts54x' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/LGHW0ZwLgpeH7Nsn4vlrWi' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/Jvhbjxueer0GSdOw75ZtWR' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/Gysm0PMJ4zg7ts0E9t91Hz' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/IZeaMQos8pxEhlyVI6yZaa' //Grupo 5
-global.nnnttt1 = 'https://chat.whatsapp.com/B8lrwGzSUbf7zlZHDAwCQ8' //Grupo 6 COL
-global.nnnttt2 = 'https://chat.whatsapp.com/IlyJBy1fxcw2qAHLSC5YLa' //Grupo 7 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/LVocHnQjrci6dM4TZdmhBH' //Grupo 8 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/IB9Vs7mZ03BBkH3reCU8Dw' //Grupo 9 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/HOCsvLox0Ui7cwzTCeFhPP' //A.T.M.M
-global.paypal = 'https://paypal.me/OficialGD'
-global.asistencia = 'Wa.me/50660400020' //Dudas? escríbeme...
+global.gt = "Federico";
+global.asistencia = 'Wa.me/51904029891' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -171,13 +146,13 @@ global.exito = eg;
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨";
-global.igfg = "𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿";
+global.wm = "FEDERICO: FEDERICO";
+global.igfg = "FEDERICO";
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*";
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*";
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*";
 global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*";
-global.nomorown = "593993684821";
+global.nomorown = "51904029891";
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"];
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
@@ -223,7 +198,6 @@ global.img13 = 'https://i.imgur.com/pCfFOgw.jpeg';
 global.img14 = 'https://i.imgur.com/knBDWRA.jpeg';
 global.img15 = 'https://i.imgur.com/QrkkKx7.jpeg';
 
-global.img16 = 'https://i.imgur.com/11MRjo4.jpeg'; //+18
 
 global.img17 = 'https://i.imgur.com/JpYfcH0.jpeg';
 global.img18 = 'https://i.imgur.com/9yLH4W4.jpeg';
