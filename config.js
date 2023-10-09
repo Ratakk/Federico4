@@ -1,4 +1,4 @@
-import { watchFile, unwatchFile } from "fs";
+Yoimport { watchFile, unwatchFile } from "fs";
 import chalk from "chalk";
 import { fileURLToPath } from "url";
 import fs from "fs";
@@ -38,10 +38,10 @@ global.lenguajeGB = es; //Idioma de GataBot, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.openai_key = 'sk-0';
+global.openai_key = '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';
 /* Consigue tu ApiKey en este enlace: https://platform.openai.com/account/api-keys */
 
-global.openai_org_id = 'org-3';org-Vnxz3vcKhdvqDl80qCxWK0Cb
+global.openai_org_id = 'org-Vnxz3vcKhdvqDl80qCxWK0Cb';
 /* Consigue tu ID de organizacion en este enlace: https://platform.openai.com/account/org-settings */
 
 global.keysZens = ["LuOlangNgentot", "c2459db922", "37CC845916", "6fb0eff124", "hdiiofficial", "fiktod", "BF39D349845E", "675e34de8a", "0b917b905e6f"];
@@ -98,10 +98,10 @@ global.moment = moment;
 global.official = [ // Agregate si eres Owner
 ["51904029891", 'Beto 💻', 1], 
 
-global.mail = ''; calderonbeto2009@gmail.com 
-global.desc = ''; pues soy beto
-global.desc2 = ''; //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
-global.country = ''; Perú 
+global.mail = 'calderonbeto2009@gmail.com';  
+global.desc = 'pues soy beto';
+global.desc2 = 'hola hijos de Puta soy un bot';
+global.country = 'Peru'; 
 
 global.packname = "FEDERICO";
 global.author = "BETO";
