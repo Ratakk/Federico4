@@ -95,16 +95,13 @@ global.moment = moment;
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
-global.official = [ // Agregate si eres Owner
-["51904029891", 'Beto 💻', 1], 
-
-global.mail = 'calderonbeto2009@gmail.com';  
-global.desc = 'pues soy beto';
-global.desc2 = 'hola hijos de Puta soy un bot';
-global.country = 'Peru'; 
-
-global.packname = "FEDERICO";
-global.author = "BETO";
+global.official = ["51904029891", 'Beto 💻'];
+global.mail = ['calderonbeto2009@gmail.com'];  
+global.desc = ['pues soy beto'];
+global.desc2 = ['hola hijos de Puta soy un bot'];
+global.country = ['Peru']; 
+global.packname = ["FEDERICO"];
+global.author = ["BETO"];
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
@@ -146,7 +143,7 @@ global.exito = eg;
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = "FEDERICO: FEDERICO";
+global.wm = "Federico : Beto";
 global.igfg = "FEDERICO";
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*";
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*";
